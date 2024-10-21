@@ -1,0 +1,16 @@
+body {
+    background-color: #f0f0f0; /* Set a light gray background color */
+}
+
+.login-card {
+    background-color: #fff; /* Set a white background color for the login card */
+    padding: 20px; /* Add some padding to the login card */
+    border: 1px solid #ddd; /* Add a light gray border to the login card */
+    border-radius: 10px; /* Add a slight border radius to the login card */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow to the login card */
+}
+
+.login-title {
+    text-align: center; /* Center the login title */
+    margin-bottom: 20px; /* Add some margin below the login title */
+}
